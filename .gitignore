@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+.env
+.env.*
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Dependency directories
+venv/
+env/
+pipenv/
+.venv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Django generated files
+*.log
+*.pot
+*.pyc
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Other
+*.bak
+*.swp
+Thumbs.db
+.DS_Store
